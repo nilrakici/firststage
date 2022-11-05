@@ -1,8 +1,8 @@
 # Stage 1 - Write Some Code
 
 ## You can run test cases
-run stage-1.py
-MyFile.txt is newly generated file.
+- run stage1.py
+- MyFile.txt is newly generated file.
 
 
 ## Dependencies
